@@ -1,3 +1,3 @@
 # yuhuakang
-my first repository on GitHub
+my first repository on GitHub;
 hello world
